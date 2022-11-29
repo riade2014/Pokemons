@@ -182,3 +182,15 @@ background-image: linear-gradient(
 h3 {
 	text-shadow: 2px 2px #f1eded;
 }
+ul {
+    display: flex;
+    justify-content: center;
+	list-style-type: none;
+	background-color: #c9e0e9;
+	border-radius: 6px;
+	border: 0.5px solid #433d3d;
+	color: rgb(13, 4, 4);
+	padding: 0.5rem 1.5rem;
+	min-width: 20%;
+	margin-top: 1rem;
+  }
